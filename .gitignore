@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+
+# Временные Excel-файлы
+vako_prices_*.xlsx
+!examples/vako_prices_sample.xlsx
+
+# Отладка
+vako_captcha.html
+vako_debug.html
+
+# IDE
+.vscode/
+.idea/
